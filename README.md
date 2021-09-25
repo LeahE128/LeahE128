@@ -1,4 +1,4 @@
-### Hi, I'm Leah <img src="https://media.giphy.com/media/mDLek2Pl1Q9PwH0dXd/giphy.gif" width="100px">
+### Hi, I'm Leah <img src="https://media.giphy.com/media/mDLek2Pl1Q9PwH0dXd/giphy.gif" width="90px">
 
 
 <!--
