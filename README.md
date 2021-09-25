@@ -20,7 +20,7 @@ Woman in Tech 👩‍💻 | Passionate about Biotechnology 🧬🔬 | MSc in Com
 
 ### ✉️ Connect with me:
 <p align="center">
- <a href=" https://www.linkedin.com/in/leah-earley-076ba2137" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/leah-earley-076ba2137" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:l.earley128@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
