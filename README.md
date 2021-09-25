@@ -1,4 +1,4 @@
-### Hi there 👋
+### ### Hi, I'm Leah <img src="https://giphy.com/stickers/Smileyworld-smiley-smileyworld-smileytheoriginal-mDLek2Pl1Q9PwH0dXd" width="25px">
 
 <!--
 **LeahE128/LeahE128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
